@@ -2,6 +2,6 @@
 
 **This is a popular hangman game**
 
-A _eternal_ source of happines for *every* human beign around the globe.
+An _eternal_ source of happines for *every* human beign around the globe.
 A truly masterpiece of coding, which no one, literally **no one** have done
 before.
